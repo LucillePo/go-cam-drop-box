@@ -12,7 +12,7 @@ activities:
     - term: ECO:0000250
       reference: GO_REF:0000024
       with_objects:
-      - MGI:104781
+      - UniProtKB:P48542
       provenances:
       - contributor:
         - https://orcid.org/0000-0003-1522-9900
@@ -35,7 +35,7 @@ activities:
     - term: ECO:0000250
       reference: GO_REF:0000024
       with_objects:
-      - MGI:104781
+      - UniProtKB:P48542
       provenances:
       - contributor:
         - https://orcid.org/0000-0003-1522-9900
@@ -55,7 +55,7 @@ activities:
     - term: ECO:0000250
       reference: GO_REF:0000024
       with_objects:
-      - MGI:104781
+      - UniProtKB:P48542
       provenances:
       - contributor:
         - https://orcid.org/0000-0003-1522-9900
@@ -168,7 +168,7 @@ activities:
     - term: ECO:0000250
       reference: GO_REF:0000024
       with_objects:
-      - MGI:104781
+      - UniProtKB:P48542
       provenances:
       - contributor:
         - https://orcid.org/0000-0003-1522-9900
@@ -189,7 +189,7 @@ activities:
     - term: ECO:0000250
       reference: GO_REF:0000024
       with_objects:
-      - MGI:104781
+      - UniProtKB:P48542
       provenances:
       - contributor:
         - https://orcid.org/0000-0003-1522-9900
